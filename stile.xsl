@@ -208,13 +208,6 @@
     </p>
 </xsl:template>
 
-
-<!-- Storia -->
-<!--<xsl:template match="tei:history">
-    <xsl:apply-templates select="current()/tei:origin" />
-</xsl:template>-->
-
-
 <xsl:template match="tei:msContents">
     <b>Titolo:</b>
     <xsl:value-of select="//tei:msItem/tei:title" />

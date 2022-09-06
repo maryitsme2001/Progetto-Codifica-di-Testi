@@ -1462,6 +1462,18 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
 </item>
 
 <label>
+<term xml:id="dialectes5" xml:lang="fr">dialectes</term>
+<term ref="#dialectes5" xml:lang="it">dialetti</term>
+</label>
+<item>
+<gloss target="#dialectes5" xml:lang="it" source="https://www.treccani.it/enciclopedia/dialetto">Sistema linguistico di ambito geografico o culturale limitato, che non
+ha raggiunto o che ha perduto autonomia e prestigio di fronte a un altro 
+sistema divenuto dominante e riconosciuto come ufficiale, col quale tuttavia, 
+e con altri sistemi circostanti, 
+forma un gruppo di idiomi molto affini per avere origine da una stessa lingua madre.</gloss>
+</item>
+
+<label>
 <term xml:id="individuels" xml:lang="fr">individuels</term>
 <term ref="#individuels" xml:lang="it">individuali</term>
 </label>

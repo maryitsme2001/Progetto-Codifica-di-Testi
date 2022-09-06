@@ -120,9 +120,7 @@
 
 
   <facsimile>
-
-
-
+    
     <surface n="1" xml:id="P3_16">
       <graphic url='P3_p16.png' width='2082.8px' height='3217.8px' />
       <zone ulx="3" uly="21" lrx="2078" lry="3216" xml:id="P16Intera" />
@@ -134,8 +132,6 @@
       <zone ulx="380" uly="632" lrx="1974" lry="723" xml:id="P16_R6" />
       <zone ulx="404" uly="731" lrx="1956" lry="822" xml:id="P16_R7" />
       <zone ulx="14" uly="801" lrx="329" lry="960" xml:id="P16_N1" />
-
-
       <zone ulx="391" uly="831" lrx="2011" lry="922" xml:id="P16_R8" />
       <zone ulx="379" uly="945" lrx="1977" lry="1013" xml:id="P16_R9" />
       <zone ulx="409" uly="1021" lrx="2009" lry="1126" xml:id="P16_R10"/>
@@ -147,6 +143,7 @@
       <zone ulx="446" uly="1635" lrx="1983" lry="1749" xml:id="P16_R16" />
       <zone ulx="433" uly="1741" lrx="2014" lry="1837" xml:id="P16_R17" />
       <zone ulx="42" uly="1980" lrx="2022" lry="2075" xml:id="P16_R18" />
+      <zone ulx="46" uly="2007" lrx="441" lry="2239"  xml:id="P16_N2" />
       <zone ulx="438" uly="2088" lrx="974" lry="2193" xml:id="P16_R19" />
       <zone ulx="628" uly="2189" lrx="2028" lry="2272" xml:id="P16_R20" />
       <zone ulx="476" uly="2280" lrx="1993" lry="2395" xml:id="P16_R21" />
@@ -177,15 +174,13 @@
       <zone ulx="396" uly="1166" lrx="1958" lry="1277" xml:id="P17_R10" />
       <zone ulx="441" uly="1291" lrx="1958" lry="1377" xml:id="P17_R11" />
       <zone ulx="443" uly="1389" lrx="1940" lry="1497" xml:id="P17_R12" />
-      <zone ulx="33" uly="1471" lrx="393" lry="1823" xml:id="P17_N1" />
-
       <zone ulx="446" uly="1515" lrx="1979" lry="1589" xml:id="P17_R13" />
+      <zone ulx="33" uly="1471" lrx="393" lry="1823" xml:id="P17_N1" />
       <zone ulx="444" uly="1566" lrx="1985" lry="1721" xml:id="P17_R14" />
       <zone ulx="449" uly="1712" lrx="2004" lry="1832" xml:id="P17_R15" />
       <zone ulx="416" uly="1811" lrx="1990" lry="1944" xml:id="P17_R16" />
       <zone ulx="454" uly="1907" lrx="1972" lry="2025" xml:id="P17_R17" />
       <zone ulx="17" uly="2037" lrx="358" lry="2334" xml:id="P17_N2" />
-
       <zone ulx="462" uly="2037" lrx="2004" lry="2141" xml:id="P17_R18" />
       <zone ulx="487" uly="2151" lrx="1953" lry="2236" xml:id="P17_R19" />
       <zone ulx="486" uly="2259" lrx="1982" lry="2344" xml:id="P17_R20" />
@@ -197,7 +192,6 @@
       <zone ulx="524" uly="2904" lrx="1971" lry="2993" xml:id="P17_R26" />
       <zone ulx="575" uly="3009" lrx="1958" lry="3101" xml:id="P17_R27" />
       <zone ulx="71" uly="3029" lrx="475" lry="3229" xml:id="P17_N3" />
-
       <zone ulx="574" uly="3107" lrx="2007" lry="3203" xml:id="P17_R28" />
 
     </surface>
@@ -1093,7 +1087,6 @@ et à
         
 <lang>savoyard</lang>
 
-
 <supplied resp="#ef" reason="omitted-in-original">,</supplied>
 
 <lb xml:id="P3_17_R25" n="25" facs="#P17_R25" />
@@ -1150,9 +1143,7 @@ et à
 </ab>
 </div>
 
-
 <!-- Traduzione -->
-
 <div type="traduzionepag16">
 
 
@@ -1242,21 +1233,15 @@ tale dialetto è differente da ogni altro dialetto francese, e d'altra parte <hi
             Gex, la Franca-Contea, Parigi.
 
 </ab>
-
-
 </div>
 </body>
 
 
-
 <back>
-
-
 
 <!--terminologia-->
 <div type="appendice">
 <list type="terminology">
-
 
 <label>
 <term xml:id="lefait" xml:lang="fr">le fait</term>
@@ -1414,7 +1399,6 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
 <gloss target="#dialectaless" xml:lang="it" source="https://www.treccani.it/vocabolario/dialettale/">Del dialetto.</gloss>
 </item>
 
-
 <label>
 <term xml:id="individuels" xml:lang="fr">individuels</term>
 <term ref="#individuels" xml:lang="it">individuali</term>
@@ -1423,8 +1407,6 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
 <gloss target="#individuels" xml:lang="it" source="https://www.treccani.it/vocabolario/individuale/">Sistema linguistico di ambito geografico o culturale limitato, che non
   Che concerne l’individuo, che è proprio del singolo individuo, di una determinata persona.</gloss>
 </item>
-
-
 
 <label>
 <term xml:id="fractions" xml:lang="fr">fractions</term>
@@ -1436,9 +1418,7 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
   Nel linguaggio amministrativo, parte di un territorio comunale
    che comprende di norma un centro abitato.</gloss>
 </item>
-
-
-
+  
 <label>
 <term xml:id="lieu" xml:lang="fr">lieu</term>
 <term ref="#lieu" xml:lang="it">frazioni</term>
@@ -1447,9 +1427,6 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
 <gloss target="#lieu" xml:lang="it" source="https://www.treccani.it/vocabolario/luogo/">
   In senso ampio, una parte dello spazio, idealmente o materialmente circoscritta.</gloss>
 </item>
-
-
-
 
 <label>
 <term xml:id="caractérisées" xml:lang="fr">caractérisées</term>
@@ -1479,10 +1456,6 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
           tutto ciò che è sostanzialmente non vero, ma è creduto o si vuol far passare per vero.</gloss>
 </item>
 
-
-
-
-
 <label>
 <term xml:id="vraie" xml:lang="fr">vraie</term>
 <term ref="#vraie" xml:lang="it">vera</term>
@@ -1492,7 +1465,6 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
           Che è realmente ciò che dice il suo nome.</gloss>
 </item>
 
-
 <label>
 <term xml:id="linguistique" xml:lang="fr">linguistique</term>
 <term ref="#linguistique" xml:lang="it">linguistica</term>
@@ -1501,9 +1473,6 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
 <gloss target="#linguistique" xml:lang="it" source="https://www.treccani.it/enciclopedia/linguistica">
           Scienza del linguaggio.</gloss>
 </item>
-
-
-
 
 <label>
 <term xml:id="realité" xml:lang="fr">réalité</term>
@@ -1523,7 +1492,6 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
           Il fatto, la condizione e la caratteristica di essere uno, solo uno e non più di uno.</gloss>
 </item>
 
-
 <label>
 <term xml:id="définies" xml:lang="fr">définies</term>
 <term ref="#définies" xml:lang="it">definite</term>
@@ -1533,7 +1501,6 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
           Preciso, determinato.</gloss>
 </item>
 
-
 <label>
 <term xml:id="géographiquement" xml:lang="fr">géographiquement</term>
 <term ref="#géographiquement" xml:lang="it">vera</term>
@@ -1542,8 +1509,6 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
 <gloss target="#géographiquement" xml:lang="it" source="https://www.treccani.it/vocabolario/geografico/">
           Della geografia, pertinente alla geografia.</gloss>
 </item>
-
-
 
 <label>
 <term xml:id="caractères" xml:lang="fr">caractères</term>
@@ -1594,7 +1559,6 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
           Colpo.</gloss>
 </item>
 
-
 <label>
 <term xml:id="immédiatement" xml:lang="fr">immédiatement</term>
 <term ref="#immédiatement" xml:lang="it">immediatamente</term>
@@ -1603,7 +1567,6 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
 <gloss target="#immédiatement" xml:lang="it" source="https://www.treccani.it/vocabolario/immediatamente_%28Sinonimi-e-Contrari%29/">
           all'istante, detto fatto.</gloss>
 </item>
-
 
 <label>
 <term xml:id="carte" xml:lang="fr">carte</term>
@@ -1617,8 +1580,7 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
            previa aggiunta di additivi, detti cariche, che conferiscono caratteristiche particolari, 
           si ricavano fogli sottili e flessibili, per vari usi.</gloss>
 </item>
-
-
+  
 <label>
 <term xml:id="limites" xml:lang="fr">limites</term>
 <term ref="#limites" xml:lang="it">limiti</term>
@@ -1638,8 +1600,6 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
 <gloss target="#parfait" xml:lang="it" source="https://www.treccani.it/vocabolario/perfettamente/">Sistema linguistico di ambito geografico o culturale limitato, che non
           In modo perfetto, eccellente, nel migliore dei modi.</gloss>
 </item>
-
-
 
 <label>
 <term xml:id="distinctifs" xml:lang="fr">distinctifs</term>
@@ -1947,12 +1907,7 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
 <country>Svizzera</country>
 </place>
 
-
-
 </listPlace>
-
-
-
 
 </div>
 </back>

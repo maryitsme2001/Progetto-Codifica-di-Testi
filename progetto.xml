@@ -239,7 +239,7 @@
 
           <lb xml:id="P3_16_R3" n="3" facs="#P16_R3" />
 
-          <term ref="#différenciation2">
+          <term ref="#différenciation">
             <abbr>diff<am>.</am>
             </abbr>
             <expan>
@@ -332,14 +332,14 @@
       
                 de
           <term ref="#dialectes">dialectes</term>
-          <term ref="#différents">différents</term>
+          <term ref="#différent">différents</term>
 
           <choice>
             <orig>surla</orig>
             <reg resp="#ef">sur la</reg>
           </choice>
              même
-          <term ref="#surface2">surface</term>,
+          <term ref="#surface">surface</term>,
           <add resp="#fds" place="margin">B' B'' B'''</add>
           <supplied resp="#ef">.</supplied>
         </ab>
@@ -360,7 +360,7 @@
             <reg resp="#ef">dans</reg>
           </choice>                  
         le
-          <term ref="#temps2">temps</term>
+          <term ref="#temps">temps</term>
           <subst resp="#ef">
             <del>:</del>
             <add>,</add>
@@ -413,7 +413,7 @@
 
           <lb xml:id="P3_16_R12" n="12" facs="#P16_R12" />
           <subst>
-            <add resp="#fds" place="margin"> les <term ref="#différents3">
+            <add resp="#fds" place="margin"> les <term ref="#différent">
               <abbr>diff<am>.</am>
               </abbr>
               <expan resp="#ef">
@@ -425,7 +425,7 @@
             <gap reason="illegible" />
           </del>
         </subst>
-        <term ref="#dialectes2">dialectes</term>
+        <term ref="#dialectes">dialectes</term>
          B' B" ne
         <subst>
           <del resp="#fds">
@@ -449,7 +449,7 @@
 
         <lb xml:id="P3_16_R14" n="14" facs="#P16_R14" />
              pas encore comme
-        <term ref="#dialectes2">
+        <term ref="#dialectes">
           <abbr>dial<am>.</am>
           </abbr>
           <expan resp="#ef">
@@ -517,7 +517,7 @@
           <reg resp="#ef">deux</reg>
         </choice>
         <unclear reason="illegible">grandes</unclear>
-        <term ref="#fractions2">  fractions</term> ne
+        <term ref="#fractions">  fractions</term> ne
         <unclear reason="illegible">sont</unclear>
              pas
 
@@ -618,7 +618,7 @@
       <del resp="#fds">qu'il n'existe pas en</del>
       <lb xml:id="P3_16_R27" n="27" facs="#P16_R27" />
       <del resp="#fds">réalité  d'unites</del>
-             que les <term ref="#dialectes3">dialectes</term> ne
+             que les <term ref="#dialectes">dialectes</term> ne
       <unclear reason="illegible">sont</unclear>
 
       <lb xml:id="P3_16_R28" n="28" facs="#P16_R28" />
@@ -632,13 +632,13 @@
       <add resp="#fds" place="above">
         <term ref="#géographiquement">géographiquement</term>
       </add>
-             de <term ref="#dialectes4">dialectes</term>; mais qu'il existe
+             de <term ref="#dialectes">dialectes</term>; mais qu'il existe
 
       <lb xml:id="P3_16_R30" n="30" facs="#P16_R30" />
              en
       <unclear reason="illegible">revanche</unclear>
       <unclear reason="illegible">
-        <term ref="#géographiquement2">géographiquement</term>
+        <term ref="#géographiquement">géographiquement</term>
       </unclear>
       <unclear reason="illegible">des <term ref="#caractères">
         <hi rend="italic" xml:lang="it">caractères</hi>
@@ -709,7 +709,7 @@
     <orig>1</orig>
     <reg resp="#ef">un</reg>
   </choice>
-  <term ref="#dialecte5">dialecte</term>
+  <term ref="#dialecte">dialecte</term>
   <hi rend="italic" xml:lang="it">
     <term ref="#parfait">
       <abbr>parfaitt</abbr>
@@ -731,7 +731,8 @@
       sont
 
   <lb xml:id="P3_17_R8" n="8" facs="#P17_R8" />
-  <term ref="#caractéres">caractères </term>qu'on
+  <term ref="#caractères">caractères</term>
+  qu'on
   <subst>
     <add resp="#fds" place="above">reconnaît</add>
     <del resp="#fds">adopte</del>
@@ -743,7 +744,7 @@
 
   <lb xml:id="P3_17_R9" n="9" facs="#P17_R9" />
   <unclear reason="illegible"> de ce</unclear>
-  <term ref="#dialectes2">
+  <term ref="#dialectes">
     <abbr>dial<am>.</am>
     </abbr>
     <expan resp="#ef">
@@ -753,7 +754,7 @@
              par
       rapport
              aux
-  <term ref="#dialectes5">
+  <term ref="#dialectes">
     <abbr>dial<am>.</am>
     </abbr>
     <expan resp="#ef">
@@ -817,7 +818,7 @@
              poser en
   <unclear reason="illegible">quoi</unclear>
              ce
-  <term ref="#dialecte9">
+  <term ref="#dialecte">
     <abbr>dial<am>.</am>
     </abbr>
     <expan resp="#ef">
@@ -834,7 +835,7 @@
 
   <lb xml:id="P3_17_R13" n="13" facs="#P17_R13" />
              autre
-  <term ref="#dialecte10">
+  <term ref="#dialecte">
     <abbr>dial<am>.</am>
     </abbr>
     <expan resp="#ef">
@@ -863,7 +864,7 @@
 <lb xml:id="P3_17_R14" n="14" facs="#P17_R14" />
              à la recherche
 <unclear reason="illegible">de ces</unclear>
-<term ref="#caractères3"> caract<reg resp="#ef">è</reg>res</term>
+<term ref="#caractères"><choice><orig>caractere</orig><reg resp="#ef">caractères</reg></choice></term>
 <add resp="#fds" place="above">
   <unclear reason="illegible">
     <term ref="#communs">communs</term>
@@ -883,10 +884,10 @@
 </choice>
 </term>
 <unclear reason="illegible">
-<term ref="#abord2">abord</term>
+<term ref="#abord">abord</term>
 </unclear>
              par
-<term ref="#exemple2">
+<term ref="#exemple">
 <abbr>ex<am>.</am>
 </abbr>
 <expan resp="#ef">
@@ -962,22 +963,22 @@
 <unclear reason="illegible">du</unclear>
 
 <lb xml:id="P3_17_R18" n="18" facs="#P17_R18" />
-<term ref="#dialecte11">
+<term ref="#dialecte">
 <abbr>dial<am>.</am>
 </abbr>
 <expan resp="#ef">
 <ex>ecte</ex>
 </expan>
 </term>
-<term xml:id="savoiard2" xml:lang="sav">
-<term ref="#savoyard2">
+<term xml:id="savoiard" xml:lang="sav">
+<term ref="#savoyard">
 <lang>savoyard</lang>
 </term>
 </term>
 <corr resp="#ef">,</corr>
-<add resp="#fds" place="margin">est aussi un <term ref="#signe2">signe</term>
-<term ref="#distinctif2">distinctif</term>
-<term ref="#dialectal12"> dialectal</term>
+<add resp="#fds" place="margin">est aussi un <term ref="#signe">signe</term>
+<term ref="#distinctif">distinctif</term>
+<term ref="#dialectal"> dialectal</term>
 </add>
              mais
 <supplied resp="#ef" reason="omitted-in-original">,</supplied>
@@ -997,12 +998,12 @@
              je
 <unclear reason="illegible">constaterai</unclear>
              que cela
-<unclear reason="illegible">est <term ref="#commun2">commun</term>
+<unclear reason="illegible">est <term ref="#commun">commun</term>
 </unclear>
 
 <lb xml:id="P3_17_R20" n="20" facs="#P17_R20" />
              au
-<term ref="#dialecte12">
+<term ref="#dialecte">
 <abbr>dial<am>.</am>
 </abbr>
 <expan resp="#ef">
@@ -1010,8 +1011,9 @@
 </expan>
 </term>
 <unclear reason="illegible">
-<term ref="#savoyard3">savoyard </term>et</unclear>
-             à
+<term ref="#savoyard">savoyard</term> 
+</unclear>
+et à
 <reg resp="#ef">tout</reg>
 
         le 
@@ -1104,7 +1106,7 @@
 
 </ab>
 <ab type="pericope" n="8" xml:id="P3_17_Pericope8">
-             ce <term ref="#caractère2"> caractère </term>sera<pc>-</pc>
+             ce <term ref="#caractère"> caractère </term>sera<pc>-</pc>
 
 <lb xml:id="P3_17_R26" n="26" facs="#P17_R26" />
              t-il
@@ -1118,11 +1120,11 @@
 <ab type="pericope" n="9" xml:id="P3_17_Pericope9">
 <unclear reason="illegible">Nullement</unclear>
 <supplied resp="#ef" reason="omitted-in-original">,</supplied>
-             parce que ce <term ref="#caractère3">caractère</term>
+             parce que ce <term ref="#caractère">caractère</term>
 <pc>-</pc>là
 
 <lb xml:id="P3_17_R27" n="27" facs="#P17_R27" />
-<unclear reason="illegible">est <term ref="#commun3">commun</term>
+<unclear reason="illegible">est <term ref="#commun">commun</term>
 </unclear>
              en
 <unclear reason="illegible">revanche avec</unclear>
@@ -1279,13 +1281,6 @@ tale dialetto è differente da ogni altro dialetto francese, e d'altra parte <hi
 <gloss target="#temps" xml:lang="it" source="https://www.treccani.it/vocabolario/tempo_res-2cc790f4-e8ab-11eb-94e0-00271042e8d9/">L’intuizione e la rappresentazione del modo in cui gli eventi si susseguono.</gloss>
 </item>
 <label>
-<term xml:id="différenciation2" xml:lang="fr">différenciation</term>
-<term ref="#différenciation2" xml:lang="it">differenziazione</term>
-</label>
-<item>
-<gloss target="#différenciation2" xml:lang="it" source="https://www.treccani.it/vocabolario/differenziazione/">L’atto, il fatto di differenziare, cioè di rendere differente o di trattare in modo differente.</gloss>
-</item>
-<label>
 <term xml:id="espace" xml:lang="fr">espace</term>
 <term ref="#espace" xml:lang="it">spazio</term>
 </label>
@@ -1383,43 +1378,24 @@ come elemento di separazione fra la parte di spazio occupata dal corpo e quella 
             e con altri sistemi circostanti, 
             forma un gruppo di idiomi molto affini per avere origine da una stessa lingua madre.</gloss>
 </item>
-<label>
-<term xml:id="différents" xml:lang="fr">différents</term>
-<term ref="#différents" xml:lang="it">differenti</term>
-</label>
-<item>
-<gloss target="#différents" xml:lang="it" source="https://www.treccani.it/vocabolario/differente/">Che ha natura o qualità dissimili da quelle di un altro oggetto o persona con cui è confrontato.</gloss>
-</item>
-<label>
-<term xml:id="surface2" xml:lang="fr">surface</term>
-<term ref="#surface2" xml:lang="it">superficie</term>
-</label>
-<item>
-<gloss target="#surface2" xml:lang="it" source="https://www.treccani.it/enciclopedia/superficie/">Il contorno di un corpo, come elemento di separazione fra la parte di spazio occupata dal corpo e 
- quella non occupata.</gloss>
-</item>
 
 <label>
 <term xml:id="distance" xml:lang="fr">distance</term>
 <term ref="#distance" xml:lang="it">distanza</term>
 </label>
+
 <item>
 <gloss target="#distance" xml:lang="it" source="https://www.treccani.it/vocabolario/distanza/">La lunghezza del tratto di linea retta (nell’ordinario spazio euclideo,
  altrimenti del tratto di geodetica) che congiunge due punti
   (e che s’identifica col concetto del minimo percorso tra questi), o, più genericamente, 
 la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
 </item>
-<label>
-<term xml:id="temps2" xml:lang="fr">temps</term>
-<term ref="#temps2" xml:lang="it">tempo</term>
-</label>
-<item>
-<gloss target="#temps2" xml:lang="it" source="https://www.treccani.it/vocabolario/tempo_res-2cc790f4-e8ab-11eb-94e0-00271042e8d9/">L’intuizione e la rappresentazione del modo in cui gli eventi si susseguono.</gloss>
-</item>
+
 <label>
 <term xml:id="inévitablement" xml:lang="fr">inévitablement</term>
 <term ref="#inévitablement" xml:lang="it">inevitabilmente</term>
 </label>
+
 <item>
 <gloss target="#inévitablement" xml:lang="it" source="https://www.treccani.it/vocabolario/inevitabile/">Che non può essere evitato.</gloss>
 </item>
@@ -1428,7 +1404,7 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
 <term ref="#differences" xml:lang="it">differenze</term>
 </label>
 <item>
-<gloss target="#différences" xml:lang="it" source="https://www.treccani.it/vocabolario/differente/">Che ha natura o qualità dissimili da quelle di un altro oggetto o persona con cui è confrontato.</gloss>
+<gloss target="#différences" xml:lang="it" source="https://www.treccani.it/vocabolario/differenza/">L’esser differente; mancanza di identità, di somiglianza o di corrispondenza fra persone o cose che sono diverse tra loro per natura o per qualità e caratteri.</gloss>
 </item>
 <label>
 <term xml:id="dialectaless" xml:lang="fr">dialectales</term>
@@ -1439,40 +1415,6 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
 </item>
 
 
-
-<label>
-<term xml:id="différents3" xml:lang="fr">différents</term>
-<term ref="#différents3" xml:lang="it">differenti</term>
-</label>
-<item>
-<gloss target="#différents3" xml:lang="it" source="https://www.treccani.it/vocabolario/differente/">
-          Che ha natura o qualità dissimili da quelle di un altro oggetto o persona con cui è confrontato.</gloss>
-</item>
-
-<label>
-<term xml:id="dialectes2" xml:lang="fr">dialectes</term>
-<term ref="#dialectes2" xml:lang="it">dialetti</term>
-</label>
-<item>
-<gloss target="#dialectes2" xml:lang="it" source="https://www.treccani.it/enciclopedia/dialetto">Sistema linguistico di ambito geografico o culturale limitato, che non
-ha raggiunto o che ha perduto autonomia e prestigio di fronte a un altro 
-sistema divenuto dominante e riconosciuto come ufficiale, col quale tuttavia, 
-e con altri sistemi circostanti, 
-forma un gruppo di idiomi molto affini per avere origine da una stessa lingua madre.</gloss>
-</item>
-
-<label>
-<term xml:id="dialectes5" xml:lang="fr">dialectes</term>
-<term ref="#dialectes5" xml:lang="it">dialetti</term>
-</label>
-<item>
-<gloss target="#dialectes5" xml:lang="it" source="https://www.treccani.it/enciclopedia/dialetto">Sistema linguistico di ambito geografico o culturale limitato, che non
-ha raggiunto o che ha perduto autonomia e prestigio di fronte a un altro 
-sistema divenuto dominante e riconosciuto come ufficiale, col quale tuttavia, 
-e con altri sistemi circostanti, 
-forma un gruppo di idiomi molto affini per avere origine da una stessa lingua madre.</gloss>
-</item>
-
 <label>
 <term xml:id="individuels" xml:lang="fr">individuels</term>
 <term ref="#individuels" xml:lang="it">individuali</term>
@@ -1481,8 +1423,6 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
 <gloss target="#individuels" xml:lang="it" source="https://www.treccani.it/vocabolario/individuale/">Sistema linguistico di ambito geografico o culturale limitato, che non
   Che concerne l’individuo, che è proprio del singolo individuo, di una determinata persona.</gloss>
 </item>
-
-
 
 
 
@@ -1506,20 +1446,6 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
 <item>
 <gloss target="#lieu" xml:lang="it" source="https://www.treccani.it/vocabolario/luogo/">
   In senso ampio, una parte dello spazio, idealmente o materialmente circoscritta.</gloss>
-</item>
-
-
-
-
-<label>
-<term xml:id="fractions2" xml:lang="fr">fractions</term>
-<term ref="#fractions2" xml:lang="it">frazioni</term>
-</label>
-<item>
-<gloss target="#fractions2" xml:lang="it" source="https://www.treccani.it/vocabolario/frazione/">
-            Nel linguaggio amministrativo, frazione o f. di comune, parte di un territorio comunale 
-            che comprende di norma un centro abitato; 
-            può avere determinate autonomie amministrative e finanziarie, ma non è sede di uffici comunali.</gloss>
 </item>
 
 
@@ -1577,18 +1503,6 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
 </item>
 
 
-<label>
-<term xml:id="dialectes3" xml:lang="fr">dialectes</term>
-<term ref="#dialectes3" xml:lang="it">dialetti</term>
-</label>
-<item>
-<gloss target="#dialectes3" xml:lang="it" source="https://www.treccani.it/enciclopedia/dialetto">Sistema linguistico di ambito geografico o culturale limitato, che non
-ha raggiunto o che ha perduto autonomia e prestigio di fronte a un altro 
-sistema divenuto dominante e riconosciuto come ufficiale, col quale tuttavia, 
-e con altri sistemi circostanti, 
-forma un gruppo di idiomi molto affini per avere origine da una stessa lingua madre.</gloss>
-</item>
-
 
 
 <label>
@@ -1629,26 +1543,7 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
           Della geografia, pertinente alla geografia.</gloss>
 </item>
 
-<label>
-<term xml:id="dialectes4" xml:lang="fr">dialectes</term>
-<term ref="#dialectes4" xml:lang="it">dialetti</term>
-</label>
-<item>
-<gloss target="#dialectes4" xml:lang="it" source="https://www.treccani.it/enciclopedia/dialetto">Sistema linguistico di ambito geografico o culturale limitato, che non
-ha raggiunto o che ha perduto autonomia e prestigio di fronte a un altro 
-sistema divenuto dominante e riconosciuto come ufficiale, col quale tuttavia, 
-e con altri sistemi circostanti, 
-forma un gruppo di idiomi molto affini per avere origine da una stessa lingua madre.</gloss>
-</item>
 
-<label>
-<term xml:id="géographiquement2" xml:lang="fr">géographiquement</term>
-<term ref="#géographiquement2" xml:lang="it">vera</term>
-</label>
-<item>
-<gloss target="#géographiquement2" xml:lang="it" source="https://www.treccani.it/vocabolario/geografico/">
-          Della geografia, pertinente alla geografia.</gloss>
-</item>
 
 <label>
 <term xml:id="caractères" xml:lang="fr">caractères</term>
@@ -1733,17 +1628,6 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
           Confine, linea terminale o divisoria.</gloss>
 </item>
 
-<label>
-<term xml:id="dialecte5" xml:lang="fr">dialecte</term>
-<term ref="#dialecte5" xml:lang="it">dialetto</term>
-</label>
-<item>
-<gloss target="#dialecte5" xml:lang="it" source="https://www.treccani.it/enciclopedia/dialetto">Sistema linguistico di ambito geografico o culturale limitato, che non
-          ha raggiunto o che ha perduto autonomia e prestigio di fronte a un altro 
-          sistema divenuto dominante e riconosciuto come ufficiale, col quale tuttavia, 
-          e con altri sistemi circostanti, 
-         forma un gruppo di idiomi molto affini per avere origine da una stessa lingua madre.</gloss>
-</item>
 
 
 <label>
@@ -1758,66 +1642,12 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
 
 
 <label>
-<term xml:id="caractéres" xml:lang="fr"> caractères</term>
-<term ref="#caractéres" xml:lang="it">caratteri</term>
-</label>
-<item>
-<gloss target="#caractéres" xml:lang="it" source="https://www.treccani.it/vocabolario/distintivo/">
-            Segno tracciato, impresso o inciso, a cui si dia un significato.</gloss>
-</item>
-
-<label>
-<term xml:id="parfaitement" xml:lang="fr">parfaitement</term>
-<term ref="#parfaitement" xml:lang="it">perfettamente</term>
-</label>
-<item>
-<gloss target="#immédiatement" xml:lang="it" source="https://www.treccani.it/vocabolario/perfettamente/">
-          In modo perfetto, eccellente, nel migliore dei modi.</gloss>
-</item>
-
-<label>
-<term xml:id="caractères2" xml:lang="fr">caractères</term>
-<term ref="#caractères2" xml:lang="it">caratteri</term>
-</label>
-<item>
-<gloss target="#caractères2" xml:lang="it" source="https://www.treccani.it/vocabolario/distintivo/">
-          Segno tracciato, impresso o inciso, a cui si dia un significato.</gloss>
-</item>
-
-<label>
 <term xml:id="distinctifs" xml:lang="fr">distinctifs</term>
 <term ref="#distinctifs" xml:lang="it">distintivi</term>
 </label>
 <item>
 <gloss target="#distinctifs" xml:lang="it" source="https://www.treccani.it/vocabolario/immediatamente_%28Sinonimi-e-Contrari%29/">
           Atto a distinguere.</gloss>
-</item>
-
-
-<label>
-<term xml:id="dialecte6" xml:lang="fr">dialecte</term>
-<term ref="#dialecte6" xml:lang="it">dialetto</term>
-</label>
-<item>
-<gloss target="#dialecte6" xml:lang="it" source="https://www.treccani.it/enciclopedia/dialetto">
-         Sistema linguistico di ambito geografico o culturale limitato, che non
-ha raggiunto o che ha perduto autonomia e prestigio di fronte a un altro 
-sistema divenuto dominante e riconosciuto come ufficiale, col quale tuttavia, 
-e con altri sistemi circostanti, 
-forma un gruppo di idiomi molto affini per avere origine da una stessa lingua madre.</gloss>
-</item>
-
-<label>
-<term xml:id="dialectes7" xml:lang="fr">dialectes</term>
-<term ref="#dialctes7" xml:lang="it">dialetti</term>
-</label>
-<item>
-<gloss target="#dialectes7" xml:lang="it" source="https://www.treccani.it/enciclopedia/dialetto">
-          Sistema linguistico di ambito geografico o culturale limitato, che non
-ha raggiunto o che ha perduto autonomia e prestigio di fronte a un altro 
-sistema divenuto dominante e riconosciuto come ufficiale, col quale tuttavia, 
-e con altri sistemi circostanti, 
-forma un gruppo di idiomi molto affini per avere origine da una stessa lingua madre.</gloss>
 </item>
 
 <label>
@@ -1838,20 +1668,6 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
   Fatto, atto, comportamento o cosa in genere che si propone come modello da imitare o da fuggire, 
   o che comunque si additi all’ammirazione o alla riprovazione.</gloss>
 </item>
-
-<label>
-<term xml:id="dialecte8" xml:lang="fr">dialecte</term>
-<term ref="#dialecte8" xml:lang="it">dialetto</term>
-</label>
-<item>
-<gloss target="#dialecte8" xml:lang="it" source="https://www.treccani.it/enciclopedia/dialetto">
- Sistema linguistico di ambito geografico o culturale limitato, che non
-ha raggiunto o che ha perduto autonomia e prestigio di fronte a un altro 
-sistema divenuto dominante e riconosciuto come ufficiale, col quale tuttavia, 
-e con altri sistemi circostanti, 
-forma un gruppo di idiomi molto affini per avere origine da una stessa lingua madre.</gloss>
-</item>
-
 
 <label>
 <term xml:id="savoyard" xml:lang="fr">savoyard</term>
@@ -1875,7 +1691,7 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
 
 <label>
 <term xml:id="devoir" xml:lang="fr">devoir</term>
-<term ref="#devoir" xml:lang="it">circonvicini</term>
+<term ref="#devoir" xml:lang="it">dovere</term>
 </label>
 <item>
 <gloss target="#devoir" xml:lang="it" source="https://www.treccani.it/enciclopedia/dovere">
@@ -1885,40 +1701,14 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
 </item>
 
 <label>
-<term xml:id="dialecte9" xml:lang="fr">dialecte</term>
-<term ref="#dialecte9" xml:lang="it">dialetto</term>
-</label>
-<item>
-<gloss target="#dialecte9" xml:lang="it" source="https://www.treccani.it/enciclopedia/dialetto">
- Sistema linguistico di ambito geografico o culturale limitato, che non
-ha raggiunto o che ha perduto autonomia e prestigio di fronte a un altro 
-sistema divenuto dominante e riconosciuto come ufficiale, col quale tuttavia, 
-e con altri sistemi circostanti, 
-forma un gruppo di idiomi molto affini per avere origine da una stessa lingua madre.</gloss>
-</item>
-
-
-<label>
 <term xml:id="différent" xml:lang="fr">différent</term>
-<term ref="#différent" xml:lang="it">circonvicini</term>
+<term ref="#différent" xml:lang="it">differenti</term>
 </label>
 <item>
 <gloss target="#différent" xml:lang="it" source="https://www.treccani.it/vocabolario/differente/">
   Che ha natura o qualità dissimili da quelle di un altro oggetto o persona con cui è confrontato.</gloss>
 </item>
 
-<label>
-<term xml:id="dialecte10" xml:lang="fr">dialecte</term>
-<term ref="#dialecte10" xml:lang="it">dialetto</term>
-</label>
-<item>
-<gloss target="#dialecte10" xml:lang="it" source="https://www.treccani.it/enciclopedia/dialetto">
- Sistema linguistico di ambito geografico o culturale limitato, che non
-ha raggiunto o che ha perduto autonomia e prestigio di fronte a un altro 
-sistema divenuto dominante e riconosciuto come ufficiale, col quale tuttavia, 
-e con altri sistemi circostanti, 
-forma un gruppo di idiomi molto affini per avere origine da una stessa lingua madre.</gloss>
-</item>
 
 
 <label>
@@ -1931,15 +1721,6 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
 </item>
 
 
-
-<label>
-<term xml:id="caractères3" xml:lang="fr">caractères</term>
-<term ref="#caractères3" xml:lang="it">caratteri</term>
-</label>
-<item>
-<gloss target="#caractères3" xml:lang="it" source="https://www.treccani.it/vocabolario/distintivo/">
-          Segno tracciato, impresso o inciso, a cui si dia un significato.</gloss>
-</item>
 
 
 <label>
@@ -1974,36 +1755,6 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
 
 
 
-<label>
-<term xml:id="aupremier2" xml:lang="fr">au premier</term>
-<term ref="#aupremier2" xml:lang="it">di primo</term>
-</label>
-<item>
-<gloss target="#aupremier2" xml:lang="it" source="https://www.treccani.it/vocabolario/primo/">
-          Riferito alla fase iniziale di un lavoro, di un’opera, o comunque di un’azione destinata a ripetersi.</gloss>
-</item>
-
-
-
-<label>
-<term xml:id="abord2" xml:lang="fr">abord</term>
-<term ref="#abord2" xml:lang="it">anzitutto</term>
-</label>
-<item>
-<gloss target="#abord2" xml:lang="it" source="https://www.treccani.it/vocabolario/anzitutto/">
-            Prima di tutto, per prima cosa. </gloss>
-
-</item>
-
-<label>
-<term xml:id="exemple2" xml:lang="fr">exemple</term>
-<term ref="#exemple2" xml:lang="it">esempio</term>
-</label>
-<item>
-<gloss target="#exemple2" xml:lang="it" source="https://www.treccani.it/vocabolario/esempio/">
-  Fatto, atto, comportamento o cosa in genere che si propone come modello da imitare o da fuggire, 
-  o che comunque si additi all’ammirazione o alla riprovazione.</gloss>
-</item>
 
 <label>
 <term xml:id="conservation" xml:lang="fr">conservation</term>
@@ -2043,8 +1794,6 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
 
 
 
-
-
 <label>
 <term xml:id="signe" xml:lang="fr">signe</term>
 <term ref="#signe" xml:lang="it">esempio</term>
@@ -2064,48 +1813,7 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
           Condiviso con altri. </gloss>
 </item>
 
-<label>
-<term xml:id="dialecte11" xml:lang="fr">dialecte</term>
-<term ref="#dialecte11" xml:lang="it">dialetto</term>
-</label>
-<item>
-<gloss target="#dialecte11" xml:lang="it" source="https://www.treccani.it/enciclopedia/dialetto">
- Sistema linguistico di ambito geografico o culturale limitato, che non
-ha raggiunto o che ha perduto autonomia e prestigio di fronte a un altro 
-sistema divenuto dominante e riconosciuto come ufficiale, col quale tuttavia, 
-e con altri sistemi circostanti, 
-forma un gruppo di idiomi molto affini per avere origine da una stessa lingua madre.</gloss>
-</item>
 
-<label>
-<term xml:id="savoyard2" xml:lang="fr">savoyard</term>
-<term ref="#savoyard2" xml:lang="it">savoiardo</term>
-</label>
-<item>
-<gloss target="#savoyard2" xml:lang="it" source="https://www.treccani.it/vocabolario/savoiardo/">
-  Della Savoia, regione storica e geografica delle Alpi occidentali.</gloss>
-</item>
-
-
-<label>
-<term xml:id="signe2" xml:lang="fr">signe</term>
-<term ref="#signe2" xml:lang="it">esempio</term>
-</label>
-<item>
-<gloss target="#signe2" xml:lang="it" source="https://www.treccani.it/vocabolario/segno/">
-            Qualunque espressione grafica 
-            che sia convenzionalmente assunta a rappresentare qualcosa.</gloss>
-</item>
-
-
-<label>
-<term xml:id="distinctifs2" xml:lang="fr">distinctifs</term>
-<term ref="#distinctifs2" xml:lang="it">distintivi</term>
-</label>
-<item>
-<gloss target="#distinctifs2" xml:lang="it" source="https://www.treccani.it/vocabolario/immediatamente_%28Sinonimi-e-Contrari%29/">
-          Atto a distinguere.</gloss>
-</item>
 
 <label>
 <term xml:id="dialectale" xml:lang="fr">dialectale</term>
@@ -2128,36 +1836,18 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
 </item>
 
 
-<label>
-<term xml:id="commun2" xml:lang="fr">commun</term>
-<term ref="#commun2" xml:lang="it">comune</term>
-</label>
-<item>
-<gloss target="#commun2" xml:lang="it" source="https://dizionario.internazionale.it/parola/in-comune">
-          Condiviso con altri. </gloss>
-</item>
-
 
 <label>
-<term xml:id="dialecte12" xml:lang="fr">dialecte</term>
-<term ref="#dialecte12" xml:lang="it">dialetto</term>
+<term xml:id="dialecte" xml:lang="fr">dialecte</term>
+<term ref="#dialecte" xml:lang="it">dialetto</term>
 </label>
 <item>
-<gloss target="#dialecte12" xml:lang="it" source="https://www.treccani.it/enciclopedia/dialetto">
+<gloss target="#dialecte" xml:lang="it" source="https://www.treccani.it/enciclopedia/dialetto">
  Sistema linguistico di ambito geografico o culturale limitato, che non
 ha raggiunto o che ha perduto autonomia e prestigio di fronte a un altro 
 sistema divenuto dominante e riconosciuto come ufficiale, col quale tuttavia, 
 e con altri sistemi circostanti, 
 forma un gruppo di idiomi molto affini per avere origine da una stessa lingua madre.</gloss>
-</item>
-
-<label>
-<term xml:id="savoyard3" xml:lang="fr">savoyard</term>
-<term ref="#savoyard3" xml:lang="it">savoiardo</term>
-</label>
-<item>
-<gloss target="#savoyard3" xml:lang="it" source="https://www.treccani.it/vocabolario/savoiardo/">
-  Della Savoia, regione storica e geografica delle Alpi occidentali.</gloss>
 </item>
 
 
@@ -2190,44 +1880,6 @@ forma un gruppo di idiomi molto affini per avere origine da una stessa lingua ma
 <gloss target="#groupe" xml:lang="it" source="https://www.treccani.it/vocabolario/gruppo/">
             Insieme di più cose o persone, distinte l’una dall’altra, ma riunite insieme in modo da formare un tutto. </gloss>
 </item>
-
-
-<label>
-<term xml:id="caractère2" xml:lang="fr">caractère</term>
-<term ref="#caractère2" xml:lang="it">carattere</term>
-</label>
-<item>
-<gloss target="#caractère2" xml:lang="it" source="https://www.treccani.it/vocabolario/carattere/">
-  Segno tracciato, impresso o inciso, a cui si dia un significato.</gloss>
-</item>
-
-
-<label>
-<term xml:id="caractère3" xml:lang="fr">caractère</term>
-<term ref="#caractère3" xml:lang="it">carattere</term>
-</label>
-<item>
-<gloss target="#caractère3" xml:lang="it" source="https://www.treccani.it/vocabolario/carattere/">
-  Segno tracciato, impresso o inciso, a cui si dia un significato.</gloss>
-</item>
-
-<label>
-<term xml:id="commun3" xml:lang="fr">commun</term>
-<term ref="#commun3" xml:lang="it">comune</term>
-</label>
-<item>
-<gloss target="#commun3" xml:lang="it" source="https://dizionario.internazionale.it/parola/in-comune">
-Condiviso con altri. </gloss>
-</item>
-
-
-
-
-
-
-
-
-
 
 
 

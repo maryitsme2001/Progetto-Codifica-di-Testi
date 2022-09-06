@@ -82,16 +82,14 @@ grid-template-columns:50% 35% 50%;
   max-width: 95%;
   margin: auto;
   line-height: 2em;
+  text-align:center;
 }
 
 img{
-  
   width: 300px;
-  margin:40px 120px;
-  border-radius: 10px;
-  
+  margin: 50px;
+  text-align:center;
 }
-
 
 
 

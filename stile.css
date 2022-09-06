@@ -1,0 +1,300 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+body {
+
+ width: auto;
+  font-family: "Open Sans", sans-serif;
+  margin: auto;
+  margin-top: 0;
+  background-color: #EAD8F2;
+  margin-bottom: 5%;
+}
+
+#info1 {
+ 
+  font-family: Bradley Hand, cursive;
+  color: #7c32c5;
+  text-align: center;
+  font-size: 1em;
+}
+#visualizza {
+  text-align: center;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+h2 {
+  text-align: center;
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  font-size: 35px;
+}
+
+
+ul li {
+  list-style-type: none;
+  text-align: left;
+  margin: 14px;
+}
+
+li {
+  margin: 10px;
+}
+
+nav ul {
+  
+  display: flex;
+  justify-content: center;
+}
+
+ul li a {
+  text-decoration: revert;
+  color: black;
+  text-transform: uppercase;
+  list-style-type: none;
+  width: fit-content;
+}
+
+#p16 img,
+#p17 img {
+  width: 400px;
+ margin-right: 50%;
+ margin-left: 30%;
+
+}
+
+
+#bottoni {
+  margin-top: 30px;
+}
+.cont {
+  display: grid;
+ margin-left: 5%;
+grid-template-columns:50% 35% 50%;
+ 
+}
+
+/*box immagini*/
+#info2{
+  display: block;
+  max-width: 95%;
+  margin: auto;
+  line-height: 2em;
+}
+
+img{
+  
+  width: 300px;
+  margin:40px 120px;
+  border-radius: 10px;
+  
+}
+
+
+
+
+
+
+
+/*pulsanti colori*/
+#gap:hover, #gap:checked  {
+  background-color: green;
+  color: green;
+}
+
+
+
+#term:hover, #term:checked {
+  background-color: yellow;
+  color: yellow;
+}
+
+#reg:hover, #reg:checked {
+  background-color: #FFA500;
+  color: #FFA500;
+}
+
+#add:hover, #add:checked {
+  background-color: lightslategray;
+  color: lightslategray;
+}
+
+#el:hover, #el:checked {
+  background-color: #00FFFF;
+  color: #00FFFF;
+}
+
+
+#expan:hover {
+  background-color: black;
+  color: black;
+}
+
+#lang:hover, #lang:checked {
+  background-color: #556B2F;
+  color: #556B2F;
+}
+
+#nomiluogo:hover, #nomiluogo:checked {
+  background-color: #A52A2A;
+  color: #A52A2A;
+}
+
+#nomipersona:hover, #nomipersona:checked {
+  background-color: #B8860B;
+  color: #B8860B;
+}
+
+#orgName:hover, #orgName:checked {
+  background-color:#800080;
+  color: #800080;
+}
+
+#abbreviazioni:hover, #abbreviazioni:checked {
+  background-color: #3399FF;
+  color: #3399FF;
+}
+
+
+
+
+#del:hover, #del:checked {
+  background-color: pink;
+  color: pink;
+}
+
+
+input[type=checkbox] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  display: inline-block;
+  position: relative;
+  background-color: #f1f1f1;
+  color: #666;
+  top: 10px;
+  height: 30px;
+  width: 30px;
+  border: 0;
+  border-radius: 50px;
+  cursor: pointer;
+  margin-right: 7px;
+  outline: none;
+  transition: 0.2s;
+  border: 1px solid #696969;
+}
+
+input[type=checkbox]:checked::before {
+  position: absolute;
+  font: 13px/1 'Roboto', sans-serif;
+  left: 11px;
+  top: 7px;
+  content: '\02143';
+  transform: rotate(40deg);
+}
+
+input[type=checkbox]:checked {
+  background-color: #f1f1f1;
+}
+
+
+
+
+
+/*tooltip*/
+.termini {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.termini .tooltip{
+  visibility: hidden;
+  width: 120px;
+  background-color: #7e7e7e;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  font-size: 12px;
+  position: absolute;
+  z-index: 1;
+  top: 100%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.termini:hover .tooltip {
+  visibility: visible;
+}
+
+
+#traduzionepag16, #traduzionepag17 {
+  text-align: justify;
+}
+
+
+.gaps {
+  display: none;
+}
+
+
+
+div.gaps {
+  text-transform: uppercase;
+  font-size: 14px;
+  height: 10px;
+}
+#bottoni > div.gaps > label {
+  margin-right: 460px;
+}
+label.container {
+  margin-right: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+/*diposizione orizzontale bottoni*/
+li{
+
+  display: inline-block;
+}
+
+
+
+
+article {
+  background-color: #fff;
+  margin: auto;
+  box-shadow: 0px 0px 24px 0px rgb(96 96 96 / 34%);
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;;
+  font-size: 18px;
+}
+.bibl{
+  background-color: rgb(236, 201, 236);
+  border: 2px solid rgb(243, 191, 243);
+  padding: 10px;
+  border-radius: 14px;
+  margin-bottom: 20px;
+ }
+ 
+
+
+#footer {
+  background-color: #e2bff1;
+  border: 2px solid #d6b1e7;
+  padding: 10px;
+  border-radius: 5px;
+ }
+ 

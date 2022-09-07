@@ -380,7 +380,7 @@
           </term>
 
           <unclear reason="illegible">
-            <term ref="#dialectaless">dialectales</term>
+            <term ref="#dialectales">dialectales</term>
           </unclear>;
         </ab>
 
@@ -784,7 +784,7 @@
     <orig>1</orig>
     <reg resp="#ef">un</reg>
   </choice>
-  <term ref="#dialecte8">
+  <term ref="#dialecte">
     <abbr>dial<am>.</am>
     </abbr>
     <expan resp="#ef">
@@ -862,7 +862,7 @@
 <add resp="#fds" place="above">
   <unclear reason="illegible">
     <term ref="#communs">communs</term>
-    <term ref="#dedinstiction">de distinction</term>
+    <term ref="#dedistinction">de distinction</term>
   </unclear>
 </add>
 </ab>
@@ -1296,7 +1296,7 @@ definizione rigorosa dello spazio come estensione tridimensionale.</gloss>
 </item>
 <label>
 <term xml:id="naturellement" xml:lang="fr">naturellement</term>
-<term ref="#naturellement" xml:lang="it">prospettiva</term>
+<term ref="#naturellement" xml:lang="it">naturalmente</term>
 </label>
 <item>
 <gloss target="#naturellement" xml:lang="it" source="https://dizionari.repubblica.it/Italiano/N/naturalmente.html">Per naturale conseguenza.</gloss>
@@ -1392,11 +1392,11 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
 <gloss target="#différences" xml:lang="it" source="https://www.treccani.it/vocabolario/differenza/">L’esser differente; mancanza di identità, di somiglianza o di corrispondenza fra persone o cose che sono diverse tra loro per natura o per qualità e caratteri.</gloss>
 </item>
 <label>
-<term xml:id="dialectaless" xml:lang="fr">dialectales</term>
-<term ref="#dialectaless" xml:lang="it">dialettali</term>
+<term xml:id="dialectales" xml:lang="fr">dialectales</term>
+<term ref="#dialectales" xml:lang="it">dialettali</term>
 </label>
 <item>
-<gloss target="#dialectaless" xml:lang="it" source="https://www.treccani.it/vocabolario/dialettale/">Del dialetto.</gloss>
+<gloss target="#dialectales" xml:lang="it" source="https://www.treccani.it/vocabolario/dialettale/">Del dialetto.</gloss>
 </item>
 
 <label>
@@ -1421,7 +1421,7 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
   
 <label>
 <term xml:id="lieu" xml:lang="fr">lieu</term>
-<term ref="#lieu" xml:lang="it">frazioni</term>
+<term ref="#lieu" xml:lang="it">luogo</term>
 </label>
 <item>
 <gloss target="#lieu" xml:lang="it" source="https://www.treccani.it/vocabolario/luogo/">
@@ -1503,7 +1503,7 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
 
 <label>
 <term xml:id="géographiquement" xml:lang="fr">géographiquement</term>
-<term ref="#géographiquement" xml:lang="it">vera</term>
+<term ref="#géographiquement" xml:lang="it">geograficamente</term>
 </label>
 <item>
 <gloss target="#géographiquement" xml:lang="it" source="https://www.treccani.it/vocabolario/geografico/">
@@ -1606,7 +1606,7 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
 <term ref="#distinctifs" xml:lang="it">distintivi</term>
 </label>
 <item>
-<gloss target="#distinctifs" xml:lang="it" source="https://www.treccani.it/vocabolario/immediatamente_%28Sinonimi-e-Contrari%29/">
+<gloss target="#distinctifs" xml:lang="it" source="https://www.treccani.it/vocabolario/distintivo/">
           Atto a distinguere.</gloss>
 </item>
 
@@ -1756,7 +1756,7 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
 
 <label>
 <term xml:id="signe" xml:lang="fr">signe</term>
-<term ref="#signe" xml:lang="it">esempio</term>
+<term ref="#signe" xml:lang="it">segno</term>
 </label>
 <item>
 <gloss target="#signe" xml:lang="it" source="https://www.treccani.it/vocabolario/segno/">
@@ -1776,16 +1776,16 @@ la lunghezza del percorso fra due luoghi, due oggetti, due persone.</gloss>
 
 
 <label>
-<term xml:id="dialectale" xml:lang="fr">dialectale</term>
-<term ref="#dialectale" xml:lang="it">dialettali</term>
+<term xml:id="dialectal" xml:lang="fr">dialectale</term>
+<term ref="#dialectal" xml:lang="it">dialettale</term>
 </label>
 <item>
-<gloss target="#dialectale" xml:lang="it" source="https://www.treccani.it/vocabolario/dialettale/">Del dialetto.</gloss>
+<gloss target="#dialectal" xml:lang="it" source="https://www.treccani.it/vocabolario/dialettale/">Del dialetto.</gloss>
 </item>
 
 <label>
 <term xml:id="observation" xml:lang="fr">observation</term>
-<term ref="#observation" xml:lang="it">dialettali</term>
+<term ref="#observation" xml:lang="it">osservazione</term>
 </label>
 <item>
 <gloss target="#observation" xml:lang="it" source="https://www.treccani.it/vocabolario/osservazione/">

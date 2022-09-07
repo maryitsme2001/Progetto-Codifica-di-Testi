@@ -59,31 +59,25 @@ $(document).ready(function () {
     control(click1, vect, "#FFA500");
   });
 
-
- 
-
 /*esempi lingustici*/
   $("#el").each(function () {
     $(this).on("click", function (e) {
-      click3 += 1;
+      click2 += 1;
 
       vect = $("mentioned");
 
-      control(click3, vect, "#00FFFF");
+      control(click2, vect, "#00FFFF");
     });
   });
 
 
-
-
-
   /*glottonimi*/
   $("#lang").on("click", function () {
-    click7 += 1;
+    click3 += 1;
 
-    vect = $("lang");
+    vect = $(".lang");
 
-    control(click7, vect, "#556B2F");
+    control(click3, vect, "#556B2F");
   });
 
   $('#lang').click(function () {
@@ -102,11 +96,11 @@ $(document).ready(function () {
 
   /*toponimi*/
   $("#nomiluogo").on("click", function () {
-    click8 += 1;
+    click4 += 1;
 
     vect = $(".place");
 
-    control(click8, vect, "#A52A2A");
+    control(click4, vect, "#A52A2A");
   });
 
   $('#nomiluogo').click(function () {
@@ -126,11 +120,11 @@ $(document).ready(function () {
   /*antroponimi*/
 
   $("#nomipersona").on("click", function () {
-    click9 += 1;
+    click5 += 1;
 
     vect = $(".nome");
 
-    control(click9, vect, "#B8860B");
+    control(click5, vect, "#B8860B");
   });
 
   $('#nomipersona').click(function () {
@@ -147,20 +141,14 @@ $(document).ready(function () {
     }
   }); 
 
-
-
-
 /*istituzione*/
 $("#orgName").on("click", function () {
-  click10 += 1;
+  click6 += 1;
 
   vect = $(".istituzione");
 
-  control(click10, vect, "#800080");
+  control(click6, vect, "#800080");
 });
-
-
-
 
 $('#orgName').click(function () {
   if ($(this).prop("checked") == true) {
@@ -177,41 +165,41 @@ $('#orgName').click(function () {
 }); 
 
 
-/*fine*/
+/*cancellazioni e gap*/
 $("del").hide();
   $(".gap").hide();
  
 
   $("#del").on("click", () => {
-    click5 += 1;
+    click7 += 1;
     
 
-    if (click5 % 2 == 1) {
+    if (click7 % 2 == 1) {
       $("del").fadeIn();
       $(".gap").show();
       $(".gap").css("background","pink");
       
 
  }
-    if (click5 % 2 == 0) {
+    if (click7 % 2 == 0) {
       $("del").fadeOut();
       $(".gap").fadeOut();
     }
   });
 
 
-
   $(".expan").hide();
+
 /*cambia visualizzazione abbreviazioni*/
   $("#abbreviazioni").on("click", function () {
-    click4 += 1;
+    click8 += 1;
 
-    if (click4 % 2 == 1) {
+    if (click8 % 2 == 1) {
       $(".abbr").css("font-weight", "bold");
       $(".expan").fadeIn();
     }
 
-    if (click4 % 2 == 0) {
+    if (click8 % 2 == 0) {
       $(".abbr").css("font-weight", "normal");
       $(".expan").fadeOut();
     }
@@ -232,12 +220,6 @@ $("del").hide();
   }); 
 
 
-/*correzione ed*/
-
-
-
-
-
   $('.abbr').on("mouseover",function () {
     
     $(this).css("font-weight", "bold");
@@ -252,14 +234,13 @@ $("del").hide();
 
   });
 
-
    $("add").hide();
 
   $('#add').on("click",function () {
 
-    click6+=1;
+    click9+=1;
 
-    if(click6 % 2 == 1) {
+    if(click9 % 2 == 1) {
     
     $("add").fadeIn();
     $("add").css("background", "grey");
@@ -267,7 +248,7 @@ $("del").hide();
 
     }
 
-    if(click6 % 2 == 0) {
+    if(click9 % 2 == 0) {
 
       $("add").fadeOut();
 

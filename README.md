@@ -6,7 +6,7 @@ Il progetto contenuto in questo <i>repository</i> è stato realizzato per l'esam
 - <i>Isabel Santucci</i> (mat. 597351 ) 
 
 ```
-prolusioni.xml: 108;21;0 ms (1246 elems, 3450 attrs, 3155 spaces, 28479 chars)
+progetto.xml: 174;32;0 ms (1089 elems, 3075 attrs, 3049 spaces, 22435 chars)
 ```
 
 

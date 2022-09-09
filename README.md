@@ -6,7 +6,8 @@ Il progetto contenuto in questo <i>repository</i> è stato realizzato per l'esam
 - <i>Isabel Santucci</i> (mat. 597351 ) 
 
 ```
-progetto.xml: 112;22;1 ms (1089 elems, 3075 attrs, 3017 spaces, 22447 chars)
+progetto.xml: 118;23;0 ms (1089 elems, 3075 attrs, 3017 spaces, 22445 chars)
+
 ```
 
 
